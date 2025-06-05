@@ -1,6 +1,6 @@
 # 🌤️ Projeto ESP32 - Monitoramento Climático via HTTP
 
-Este projeto utiliza um ESP32 fisico conectado à internet para consultar dados da API OpenWeatherMap e enviar os valores de **temperatura**, **umidade**, **pressão atmosférica** e **velocidade do vento** para a plataforma **ThingSpeak**.
+Este projeto utiliza um ESP32 fisico conectado à internet para consultar dados da API OpenWeatherMap e enviar os valores de **temperatura**, **umidade**, **pressão atmosférica** e **velocidade do vento** para a plataforma **ThingSpeak** e para o **Serial Monitor**.
 
 ## 📋 Funcionalidades
 
